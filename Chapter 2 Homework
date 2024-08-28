@@ -1,0 +1,21 @@
+Chapter 2 Homework
+Module 1: This module covered the very basics of how R works. I learned how to store new variables, various mathmatical opperations, and how to create vectors using the combine c() command. This lesson also went over how R processes various vector math operations.
+
+Module 2: This module coveres the basics of what conventions and file paths R uses. R uses similar directory commands as other unix based systems. This lesson covered several fucntions for navigating, creating, modifing and deleting direcories and files. 
+
+Module 3: This module went ove the basics of creating numbers in a seqenced array. This lesson covered how to use the colon operator, the seq() function, the rep() function. This lesson also covered how to use the length() function and the use of an 'along' function in combonation with the seq function. 
+
+Module 4: This module covers the basics of vectors in R. There are several differnt types of vectors including logical ones. the module also covers how basic logical operations work in R. Later in the module, it covers how the paste function works, as well as including basics of combining vectors using sep= and collapse=
+
+Module 5: Module 5 introduces missing values in vectors this is accomplished by using NA. This module also shows how to use the is.na() function and introduces the normal distribution fuction as well as the sample function. In R NA is not a value but it is just a placeholder of where data could be. This module also indtroduces how R represents Nan and Inf.
+
+Module 6: This module introduces indexing vectors [].This module then breaks down the different kinds of index vectors: logical vectors, vectors of positive integers, vectors of negative integers, and vectors of character strings. It is important to remember that R using one-based indexing so the first value in a vector is indexed as '1'. this module also goes over how to add atributes to vectors using the name() function
+
+Module 7: This module introduces matrices and data frames. Matricies can be created by assigning a dimention attribute to a vector or by using the matrix() function this module also covers the cbind() function to add a vector to a matrix. This module also covers the data.frame() function and how to work with data frames.
+
+Module 8: This module covers the basics in logiccal opperations in R. This module was a basic review of boolean algebra and digital logic. R uses similar logic conventiosn to python or other coding languages. && || only apply to the first object in a vector. This module also introduces the which, any, all functions which. 
+Module 9: This module introduces the cocnept of how functions work in R.This module shows you how to write your own function and call it. It is important to remember that everything in R exists as an object and everything happens in a function call. functions are called by defining the arguments. R is able to call functions as long as the input arguments are defined in the function call. It is also possible to pass functions as argumetns in other functions. anonymous functions are useful for quickly using as arguments in other functions to use them in more specific use cases. This module also introduces binary operators. 
+
+Module 12: This module introduces how to look at large datasets in R.It introduces various function that allow you to find properities of large data sets quickly and efficiently. summary is a useful function that quickly summarizes various descriptive satistics of the dataset.The str() function is another very useful function that combines many of the features of the other functions in a concise and readable format. At the very top, it says that the class of dataset is 'data.frame'. It then says the name and class of each variable, as well as a preview of its contents.
+ 
+
